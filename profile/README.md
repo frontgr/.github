@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+List of our projects: 
+### 1. Slate
 
-<!--
+Deploy you can check [here](https://slate-8ohg.vercel.app/).
 
-**Here are some ideas to get you started:**
+![image](https://github.com/frontgr/.github/assets/52705623/02f10efa-b22e-4157-a915-9f6a65490de5)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 2. FUNHAUS
+
+Deploy you can check [here](https://frontgr.github.io/funhaus/).
+
+![image](https://github.com/frontgr/.github/assets/52705623/d60e69b7-9572-44ed-8008-dc9308b9c2ba)
+
+---
+
+### 3. pics-on-click
+
+Deploy you can check [here](https://frontgr.github.io/pics-on-click/).
+
+![image](https://github.com/frontgr/.github/assets/52705623/e4b55e16-e9fa-44b8-b995-f5b9ac43afc9)
