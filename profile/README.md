@@ -29,3 +29,11 @@ Deploy you can check [here](https://frontgr.github.io/pics-on-click/).
 Deploy you can check [here](https://frontgr.github.io/pics-on-click/).
 
 ![chrome_QbFxWDuoS6](https://github.com/frontgr/.github/assets/52705623/340120a2-1c97-4889-8634-bddc509121b7)
+
+---
+
+### 5. notes
+
+Has no deploy, but your can run it locally [with Docker](https://github.com/frontgr/notes). 
+
+![image](https://github.com/frontgr/.github/assets/52705623/260b7ca9-6207-4197-85ca-d65e21ac039b)
