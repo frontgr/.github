@@ -26,7 +26,7 @@ Deploy you can check [here](https://frontgr.github.io/pics-on-click/).
 
 ### 4. lowNslow
 
-Deploy you can check [here](https://frontgr.github.io/pics-on-click/).
+Deploy you can check [here](https://low-nslow-rose.vercel.app/).
 
 ![chrome_QbFxWDuoS6](https://github.com/frontgr/.github/assets/52705623/340120a2-1c97-4889-8634-bddc509121b7)
 
